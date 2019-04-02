@@ -1,0 +1,28 @@
+# Site settings
+title: Maisha Kabir
+email: mkabir@berkeley.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Maisha Kabir's portfolio.
+baseurl:  ""
+url:  "https://maishakabir.github.io/"
+
+
+# Build settings
+markdown: kramdown
+
+highlighter: rouge
+
+# Pagination
+paginate: 15
+paginate_path: "/blog/page:num/"
+
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:path/
+  #poetry:
+   # output: true
+    #permalink: /poetry/:path/
+
+
