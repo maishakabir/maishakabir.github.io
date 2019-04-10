@@ -1,6 +1,6 @@
 ---
 layout: page
-title: work
+title: Maisha Kabir - Work
 permalink: /
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: Maisha Kabir - About
 permalink: /about/
 ---
 

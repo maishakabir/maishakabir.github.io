@@ -8,9 +8,9 @@ img: /img/fc1.jpg
 <img class="center" src="{{ site.baseurl }}/img/fc1.jpg" alt=""/>
 
 # Concept
-This is Friend Crush - a paired phone case puzzle that helps people form closer relationships. A friend crush is a platonic crush on a person you want to become friends with. Basically, you think this person is cool, and you want to get to know them better.
+This is Friend Crush &mdash; a phone case game that helps people form closer relationships. A friend crush is a platonic crush on a person you want to become friends with. Basically, you think this person is cool, and you want to get to know them better.
 
-Two people who have “friend crushes” on each other are matched through a survey and receive phone cases that have missing puzzle pieces on the back. Each person has the pieces that fit into the other person’s phone case. The pieces have instructions engraved on the back- after completing an activity, they can exchange the piece. Every completed activity brings them closer to completing the design on the phone case and (hopefully) to each other! Once they finish exchanging pieces, they can either keep the completed puzzle or pass it on to a new set of people.
+Two people who have “friend crushes” on each other are matched through a survey and receive phone cases that have missing puzzle pieces on the back. Each person has the pieces that fit into the other person’s phone case. The pieces have instructions for activities engraved on the back so after completing an activity, the participants can exchange the pieces. Every completed activity brings them closer to completing the design on the phone case and (hopefully) to each other! Once they finish exchanging pieces, they can keep the completed phone case or pass it on to a new set of people.
 
 <img class="center" src="{{ site.baseurl }}/img/fc2.png" alt=""/>
 
@@ -27,7 +27,7 @@ All of our interviewees talked about how the process of going from being acquain
 
 How might we turn a "friend crush" into a real friendship?
 
-We came up with activities that would strengthen a relationship and tried to gamify the process of getting to know a person. We hypothesized that the phone case puzzle format would be effective because it would remind the users about the friendship every time they looked at their phone and motivate them to complete the activities (and complete the puzzle!).
+We came up with activities that would strengthen a relationship and tried to gamify the process of getting to know a person. We hypothesized that the phone case puzzle format would be effective because it would remind the users about the friendship every time they looked at their phone and motivate them to complete the activities (and complete the case!).
 
 # Design
 
@@ -37,7 +37,7 @@ Drawing inspiration from the <a href="https://www.nytimes.com/2015/01/11/fashion
 
 Our interviewees mentioned it was awkward asking an acquaintance to hang out for the first time. Having a set of activities/instructions to follow would reduce some of the initial decision making and anxiety around what to do. 
 
-Some of our instructions centered around doing activities together (2, 3, 6) and some centered around the conversation (1, 4, 5). We wanted the conversation to be "deep" and require some vulnerability/trust. The activities were there to help the participants spend time together outside of wherever they normally saw each other.
+Some of our instructions centered around doing activities together (2, 3, 6) and some around the conversation (1, 4, 5). We wanted the conversation to be "deep" and require some vulnerability or trust. The activities were there to help the participants spend time together outside of wherever they normally saw each other.
 
 We hoped the participants would take more control of their friendship journey as they progressed through the instructions, so instructions 6 and 7 are the most open ended. Instruction 7 ("pass it on") is completely open to interpretation. Participants can pass on some object/story/idea to each other, or even pass the phone cases onto another pair to continue the cycle of friendship.
 
@@ -87,9 +87,9 @@ Many designs and prints later...
 
 # Final Thoughts
 
-Friendships naturally progress in unique ways, but from our interviews we learned that there are a few constants. As you get closer to a person, you typically spend more time together outside of required activities, you start talking about "deeper" topics, and you feel more at ease around the other person. We designed our activities around these findings and other social psychology research, and created these phone cases that can help facilitate friend crushes.
+Friendships naturally progress in unique ways, but we learned from our interviews that there are some constants in the way people define different levels of friendship. As you get closer to a person, you typically spend more time together outside of required activities, you start talking about "deeper" topics, and you feel more at ease around the other person. We designed our activities using these findings and other social psychology research, and we created phone cases that can help turn "friend crushes" into real friendships.
 
-Some next steps for this project would be conducting usability testing with a wider audience and creating cases that fit different types of phones. I also think we could get more user feedback about our activities and test different progressions/combinations of activities.
+Some next steps for this project would be conducting usability testing with a wider audience and creating cases that fit different types of phones. We could also get more user feedback about our activities and test different progressions/combinations of activities.
 
 <img class="center" src="{{ site.baseurl }}/img/fc12.jpg" alt=""/>
 <div class="col three caption">
