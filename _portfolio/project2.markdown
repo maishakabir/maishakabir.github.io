@@ -16,7 +16,7 @@ We brainstormed potential people in our community outside of our immediate socia
 
 Rodolfo is a graduate student in composition at Mills College. He was trained at a music conservatory in Puerto Rico and draws inspiration for his compositions from the literature and soundscapes of his homeland. He prefers to work away from digital distractions, but finds this difficult at times. Time management is important to him, and he frequently tries different methods to maximize his time and focus. 
 
-We ended up building him a **book shaped lock box with a timer feature** that plays Puerto Rican bird sounds when the timer goes off. He can specify the amount of time he wants to work using the touch sensor "bookmark" and then store his phone in the box as he focuses on composing. 
+We ended up building him a **book-shaped lock box with a timer feature** that plays Puerto Rican bird sounds when the timer goes off. He can specify the amount of time he wants to work using the touch sensor "bookmark" and then store his phone in the box as he focuses on composing. 
 
 The book shape of the box relates to his love of literature and contrasts with the digital distraction of the phone within. The bird sounds of the timer are some of the sounds from nature that inspire him and spur on his creative process.
 
