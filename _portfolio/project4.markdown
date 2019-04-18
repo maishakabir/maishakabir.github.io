@@ -51,7 +51,7 @@ We used Sarah and Jim to storyboard different situations and get a deeper unders
 
 # Design Imperatives
 
-As we compiled insights from our interviews and personas, we started looking at them as design imperatives. These are the important things to consider when designing for autonomous vehiciles. 
+As we compiled insights from our interviews and personas, we started looking at them as design imperatives. These are the important things to consider when designing for autonomous vehicles. 
 
 1.	**Basic safety, comfort, and privacy first.**
 	If these needs are not met, users do not feel good about engaging in other activities inside a car. Users need to trust that the autonomous vehicle is safe.
