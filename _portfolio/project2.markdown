@@ -2,7 +2,7 @@
 layout: post
 title: Rodolfo's Book Box
 description: A hyper personal design.
-img: /img/bb1.jpg
+img: /img/bbicon.png
 ---
 <img class="center" src="{{ site.baseurl }}/img/bb1.jpg" alt=""/>
 # Background

@@ -2,7 +2,7 @@
 layout: post
 title: Friend Crush
 description: Using digital fabrication to create phone cases that facilitate friendship.
-img: /img/fc1.jpg
+img: /img/fcicon.png
 ---
 
 <img class="center" src="{{ site.baseurl }}/img/fc1.jpg" alt=""/>
