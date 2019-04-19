@@ -3,7 +3,7 @@ layout: post
 title: Exploring Public Landscapes
 description: Profiling a public space and designing a feature for it.
 img:
-img: /img/pl2.jpg
+img: /img/plicon.png
 ---
 
 <img class="center" src="{{ site.baseurl }}/img/pl1.png" alt=""/>
